@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="shiro">
+    <CLASSES>
+      <root url="jar://F:/安装包/shiro-all-1.4.0.jar!/" />
+      <root url="jar://F:/安装包/slf4j-api-1.7.20.jar!/" />
+      <root url="jar://F:/安装包/slf4j-log4j12-1.7.12.jar!/" />
+      <root url="jar://F:/安装包/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jar包/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://F:/安装包/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
